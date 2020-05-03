@@ -10,4 +10,5 @@
    [Airbnb Dataset](http://insideairbnb.com/get-the-data.html)
    
   #### Steps
-   - Content-Based-Recommender.ipynb: Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
+   - DataPrep_Preprocess.ipynb -> Preprocessing Data Set to select Relevant features and impute missing values
+   - Content-Based-Recommender.ipynb -> Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
