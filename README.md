@@ -10,4 +10,4 @@
    [Airbnb Dataset](http://insideairbnb.com/get-the-data.html)
    
   #### Steps
-    - Content-Based-Recommender.ipynb: Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
+   - Content-Based-Recommender.ipynb: Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
