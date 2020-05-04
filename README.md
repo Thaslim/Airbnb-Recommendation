@@ -19,7 +19,7 @@
        sns, Matplotlib
        pyspark.mllib.recommendation 
        pyspark.sql
-  1. ![Download](Recommendation%20systems/Hybrid_Preprocess.ipynb) and run Hybrid_Preprocess.ipynb. This will save clean_ratings.csv
-  2. Use the saved csv file, ![Download](Recommendation%20systems/Hybrid_Airbnb_Recommendation.ipynb) and run Hybrid_Airbnb_Recommendation.ipynb to get recommendations
+  1. [Download](Recommendation%20systems/Hybrid_Preprocess.ipynb) and run Hybrid_Preprocess.ipynb. This will save clean_ratings.csv
+  2. Use the saved csv file, [Download](Recommendation%20systems/Hybrid_Airbnb_Recommendation.ipynb) and run Hybrid_Airbnb_Recommendation.ipynb to get recommendations
        
        
