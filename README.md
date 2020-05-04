@@ -14,7 +14,7 @@
    - Content-Based-Recommender.ipynb -> Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
   
   #### Hybrid Recommmendation steps
-       Required Packages
+   ##### Required Packages
        Pandas
        sns, Matplotlib
        pyspark.mllib.recommendation 
