@@ -12,11 +12,12 @@
   #### Steps
    - DataPrep_Preprocess.ipynb -> Preprocessing Data Set to select Relevant features and impute missing values
    - Content-Based-Recommender.ipynb -> Provide Top N listing recommendation to users based on Cosine similarity in Listings Description
-  ###Sentiment Analysis
+   
+  ### Rule based Sentiment Analysis
   Pyspark is used to perfrom sentiment analysis on reviews dataset.
   Go to Foler Sentiment Analysis and open jupyter notebook and run 
   ```
-  Accuracy_sentiment_analyzer.ipynb
+  Accuracy_sentiment_analyzer
   ```
   
   #### Hybrid Recommmendation steps
